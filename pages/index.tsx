@@ -1,3 +1,4 @@
+import Banner from '../Components/Banner/Banner'
 import Menu from '../Components/Menu/Menu'
 import Search from '../Components/Search/Search'
 import TopBnner from '../Components/TopBanner/TopBnner'
@@ -9,6 +10,7 @@ export default function Home() {
       <TopBnner></TopBnner>
       <Search></Search>
       <Menu></Menu>
+      <Banner></Banner>
     </div>
   )
 }

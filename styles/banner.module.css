@@ -1,0 +1,141 @@
+.backgroundImg {
+    background: url(../Images/banner.png);
+    position: absolute;
+    width: 1920px;
+    height: 850px;
+    left: 0px;
+    top: 180px;
+    background: #F9F9F9;
+
+}
+
+.discount {
+    margin-top: 191px;
+    margin-left: 285px;
+    color: red;
+}
+
+.header1 {
+    position: absolute;
+    width: 613px;
+    height: 144px;
+    left: 285px;
+    top: 215px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 72px;
+    color: #334155;
+}
+
+.shoe {
+    margin-left: 679px;
+}
+
+.header2 {
+    position: absolute;
+    width: 613px;
+    height: 144px;
+    left: 285px;
+    top: 285px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 72px;
+    color: #334155;
+}
+
+.bottomText {
+    position: absolute;
+    width: 575px;
+    height: 56px;
+    left: 285px;
+    margin-top: 80px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #64748B;
+
+}
+
+.bottom {
+    width: 429px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 160px;
+    margin-left: 235px;
+
+}
+
+.bannerButton {
+    width: 160px;
+    height: 28px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    padding: 16px 25px;
+    gap: 10px;
+    width: 210px;
+    height: 60px;
+    background: #DD0000;
+    color: white;
+    box-shadow: 0px 30px 40px -3px rgba(221, 0, 0, 0.2);
+    border-radius: 4px;
+
+}
+
+
+.imageCard1 {
+    position: relative;
+    width: 270px;
+    height: 382px;
+    left: 976px;
+    top: -366px;
+    background: #F8F8F8;
+    box-shadow: 0px 30px 88px rgba(30, 41, 59, 0.16);
+    border-radius: 21px;
+}
+
+.imageCard2 {
+    position: relative;
+    width: 270px;
+    height: 382px;
+    left: 1146px;
+    top: -606px;
+    background: #F8F8F8;
+    box-shadow: 0px 30px 88px rgba(30, 41, 59, 0.16);
+    border-radius: 21px;
+}
+
+.imageCard3 {
+    position: relative;
+    width: 270px;
+    height: 382px;
+    left: 1354px;
+    top: -1106px;
+    background: #F8F8F8;
+    box-shadow: 0px 30px 88px rgba(30, 41, 59, 0.16);
+    border-radius: 21px;
+}
+
+.cardImage {
+    position: absolute;
+    padding: 33px;
+}
+
+.cardText {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    margin-top: 14px;
+    padding: 40px;
+}
