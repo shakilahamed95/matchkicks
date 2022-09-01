@@ -1,0 +1,36 @@
+.menucontainer {
+    position: absolute;
+    width: 1920px;
+    height: 56px;
+    left: 0px;
+    top: 124px;
+}
+
+.menubar {
+    margin-left: 285px;
+    width: 413.4px;
+    margin-top: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menuRight {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-top: -58px;
+    width: 178px;
+    height: 56px;
+    margin-left: 1455px;
+    background-color: red;
+    color: white;
+}
+
+.menuImage {
+    width: 32.4px;
+    height: 28.8px;
+    top: 3.6px;
+
+}
