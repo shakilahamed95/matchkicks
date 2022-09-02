@@ -5,7 +5,11 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      boxShadow: {
+        '3xl': '0px 3px 8px rgba(11, 50, 93, 0.08)',
+      }
+    },
   },
   daisyui: {
     themes: [

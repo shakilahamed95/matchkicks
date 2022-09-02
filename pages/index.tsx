@@ -1,6 +1,7 @@
 import Banner from '../Components/Banner/Banner'
 import Category from '../Components/Category/Category'
 import Menu from '../Components/Menu/Menu'
+import Products from '../Components/Products/Products'
 import Search from '../Components/Search/Search'
 import TopBnner from '../Components/TopBanner/TopBnner'
 import styles from '../styles/Home.module.css'
@@ -13,6 +14,7 @@ export default function Home() {
       <Menu></Menu>
       <Banner></Banner>
       <Category></Category>
+      <Products></Products>
     </div>
   )
 }
