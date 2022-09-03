@@ -4,8 +4,8 @@ const Products = () => {
         <div className='ml-[285px] mr-[285px]'>
             <div className="w-[1350px] h-[521px] mt-[1559px] absolute mr-[285px] grid grid-cols-4 gap-[30px]">
                 {/* product1 */}
-                <div className=" w-[315px] h-[420px] bg-[#FFFFFF] shadow-[0_3px_8px_rgba(11,50,93,0.08)] rounded-xl p-4">
-                    <div className="absolute w-[283px] h-[240px] bg-[#F3F6F8] rounded-md">
+                <div className=" w-[315px] h-[420px] bg-[#FFFFFF] shadow-[0_3px_8px_rgba(11,50,93,0.08)] rounded-xl p-4 ">
+                    <div className="absolute w-[283px] h-[240px] bg-[#F3F6F8] rounded-md ">
                         <div className='ml-14 mt-[25px] mb-[25px]'>
                             <Image src='/shirt1.png' alt='' width="171.34px" height="190px"></Image>
                         </div>
